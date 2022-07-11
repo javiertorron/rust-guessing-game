@@ -1,2 +1,2 @@
-# rust-guessing-game
-Guess the number developed with rust
+# cargo-helloworld
+Hello World Application with Cargo
